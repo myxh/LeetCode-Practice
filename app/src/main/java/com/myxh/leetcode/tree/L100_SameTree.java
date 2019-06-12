@@ -61,16 +61,6 @@ public class L100_SameTree {
         return sameTree;
     }
 
-    public static class TreeNode {
-        int val;
-        TreeNode left;
-        TreeNode right;
-
-        TreeNode(int x) {
-            val = x;
-        }
-    }
-
     /**
      * 高赞答案
      */
