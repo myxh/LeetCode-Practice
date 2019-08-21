@@ -71,13 +71,4 @@ public class L21_MergeTwoSortedLists {
         }
         return result.next;
     }
-
-    public static class ListNode {
-        int val;
-        ListNode next;
-
-        ListNode(int x) {
-            val = x;
-        }
-    }
 }
